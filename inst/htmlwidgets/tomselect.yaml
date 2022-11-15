@@ -1,0 +1,8 @@
+dependencies:
+    - name: tomselect
+      version: 2.2.2
+      src: htmlwidgets/lib/tom-select
+      script:
+          - tom-select.complete.js
+      stylesheet:
+          - tom-select.default.css
